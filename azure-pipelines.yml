@@ -1,10 +1,4 @@
 ### YamlMime:Yaml
-ms.openlocfilehash: d99da6e6a607bbd27d5e1a246333f089e19b5980
-ms.sourcegitcommit: 52128e1e0cb6e7de6806013aec318b8c01dd2376
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "104284474"
 trigger:
 - '*'
 pool:
